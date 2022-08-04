@@ -1,0 +1,115 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+  
+
+/* header */
+
+
+.header-div-out{
+    height: 85vh;
+    width: 100%;
+    background-image: url(food2.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    
+    
+}
+
+.header-div{
+    display: flex;
+    justify-content: space-between;
+   
+    
+   
+
+}
+
+.header-d1{ padding-left: 6%;
+    font-size: 28px;
+    font-family: cursive;
+    text-decoration-line: underline;
+    color: rgb(204, 38, 66);
+}
+
+.header-d2{
+    margin-right: 6%;
+
+}
+
+.header-p1
+  {   font-family: cursive;
+    width: 31vh;
+    height: 5vh;
+    text-align: center;
+    border: 1px solid rgb(204, 38, 66);
+    border-radius: 2em;
+    color: white;
+    background-color: rgb(204, 38, 66);
+    padding-top: 4%;
+    font-size: large;
+}
+
+.header-h2{
+    padding-left: 5%;
+    font-size: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}    
+.header-pg{
+    margin-top: -15px;
+    padding-left: 5%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* section1 */
+ .s1-h{
+    text-align: center;
+    text-decoration-line: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(22, 22, 22);
+ }
+ hr{
+    margin-left: 10%;
+    margin-right: 10%;
+ }
+
+ .s1-div-out{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+
+ }
+
+ input{
+    width: 22px;
+    height: 10px;
+ }
+
+ button{
+    background-color:  rgb(146, 52, 52);
+    border: 1px solid rgb(146, 52, 52);
+    border-radius: 2em;
+    height: 26px;
+    width: 55px;
+    color: white;
+ }
+ .color{
+    color:  rgb(146, 52, 52);
+
+ }
+
+ .footer{ border-top: 1px solid rgb(218, 216, 216);
+    
+    text-align: center; }
+    #p1f {
+        font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+    }
